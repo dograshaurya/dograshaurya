@@ -19,22 +19,6 @@ I help startups, agencies, and entrepreneurs build and maintain powerful backend
 
 ---
 
-📌 **Featured Projects**
-
-- 🛠️ [**Laravel Filament Module**](https://github.com/dograshaurya/laravel-filament)  
-  Admin dashboard using **FilamentPHP**, ideal for fast Laravel CRUD & resource management.
-
-- 💳 [**Laravel GoCardless Integration**](https://github.com/dograshaurya/gocardless)  
-  Seamless integration of **GoCardless** payment gateway with Laravel apps.
-
-- 🔐 [**Node Role-Based Auth API**](https://github.com/dograshaurya/node-role-based-auth)  
-  RESTful API with role-based access control using **Node.js**, **Express**, and **JWT**.
-
-- 🚀 [**NestJS Auth App**](https://github.com/dograshaurya/nest-auth-app)  
-  Authentication & authorization using **NestJS**, featuring guards, roles, and JWT.
-
----
-
 📬 **Let's Connect**
 
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01337a934b68255172)
