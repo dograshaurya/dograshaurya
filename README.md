@@ -43,12 +43,4 @@ I help startups, agencies, and entrepreneurs build and maintain powerful backend
 
 ---
 
-⚡ **Quick Stats**
-
-![Shaurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dograshaurya&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dograshaurya&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=dograshaurya&theme=radical)
-
----
-
 🧠 *“Building scalable web apps with clean code and clear purpose.”*
