@@ -30,3 +30,10 @@ DevOps:    AWS, CyberPanel, Laravel Forge, Docker, Supervisor
 DB & Tools: MySQL, PostgreSQL, Redis, MongoDB, Telnet, PM2
 Payments:  Stripe, PayPal, GoCardless, CCBill
 Other:     Socket.io, REST APIs, PDF & QR Code generation
+
+```
+
+📬 **Let's Connect**
+
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01337a934b68255172)
+- 💌 Email: `dograshaurya@gmail.com`
