@@ -1,35 +1,39 @@
-<h1 align="center">Hi, I'm Shaurya 👋</h1>
+<h1 align="center">Hi, I'm Shaurya </h1>
+
 <p align="center">
-  <b>Expert Laravel Developer | Node.js & React.js Specialist | Payment Gateway Integrator | Freelancer on Upwork</b>
+  <b>Senior Full-Stack Developer | Laravel Expert | React.js, Vue.js & Node.js</b>
 </p>
 
 ---
 
-🔧 **About Me**
+## 🔧 About Me
 
-I'm a full-time freelance developer who helps businesses build modern, scalable, and secure web platforms. I specialize in:
+I'm a full-time freelance developer specializing in building scalable, secure, and high-performance web applications for startups, SaaS businesses, and agencies.
 
-- ✅ **Laravel** (Certified Developer), **React.js**, **Node.js**, **NestJS**
-- 🔌 RESTful APIs, WebSockets (**Socket.io**), Real-time apps
-- 💳 **Payment Gateways**: Stripe, PayPal, GoCardless, CCBill
-- ☁️ **AWS** (EC2, S3), **CyberPanel**, **Docker**
-- 📦 Custom modules, multi-tenant systems, admin dashboards
-- 📁 MySQL, PostgreSQL, Redis, MongoDB, File storage, PDF/QR tools
-- 🧑‍💻 DevOps experience: Laravel Forge, PM2, Supervisor, cron jobs
+### 🚀 Expertise
 
-I’ve helped SaaS founders, startups, and agencies deploy production-grade platforms with clean code, fast delivery, and long-term maintainability.
+- ✅ **Laravel** (Certified Developer), **React.js**, **Vue.js**, **Node.js**
+- 🔌 REST APIs, WebSockets, Real-time applications
+- 💳 Payment Gateway Integration: **Stripe, PayPal, GoCardless, CCBill**
+- ☁️ **AWS (EC2, S3)**, **Docker**, **CyberPanel**
+- 📦 Multi-tenant systems, Admin Dashboards, Custom Modules
+- 🗄️ MySQL, PostgreSQL, Redis, MongoDB
+- 🧑‍💻 Deployment & Server Management: Laravel Forge, PM2, Supervisor, Cron Jobs
+- 📄 PDF Generation, QR Code Systems & Third-Party API Integrations
+
+I help businesses turn ideas into production-ready platforms with clean architecture, optimized performance, and long-term maintainability.
 
 ---
 
-📦 **Tech Highlights**
+## 🛠️ Tech Stack
 
 ```txt
-Backend:   Laravel, PHP 8.2, Node.js, NestJS, Express
-Frontend:  React.js, Blade, HTML/CSS/JS
-DevOps:    AWS, CyberPanel, Laravel Forge, Docker, Supervisor
-DB & Tools: MySQL, PostgreSQL, Redis, MongoDB, Telnet, PM2
-Payments:  Stripe, PayPal, GoCardless, CCBill
-Other:     Socket.io, REST APIs, PDF & QR Code generation
+Backend:    Laravel, PHP, Node.js, NestJS, Express
+Frontend:   React.js, Vue.js, Blade, JavaScript
+Database:   MySQL, PostgreSQL, Redis, MongoDB
+Cloud/DevOps: AWS, Docker, Laravel Forge, PM2, Supervisor
+Payments:   Stripe, PayPal, GoCardless, CCBill
+Tools:      REST APIs, WebSockets, PDF & QR Generation
 
 ```
 
