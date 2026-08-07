@@ -27,7 +27,7 @@ I help businesses turn ideas into production-ready platforms with clean architec
 ## 🛠️ Tech Stack
 ```txt
 Backend:      Laravel, PHP, Node.js, NestJS, Express
-Frontend:     React.js, Vue.js, Blade, JavaScript
+Frontend:     React.js, Blade, JavaScript
 AI/Automation: OpenAI API, Claude API, LangChain, n8n, Zapier, Make.com
 Database:     MySQL, PostgreSQL, Redis, MongoDB
 Cloud/DevOps: AWS, Docker, Laravel Forge, PM2, Supervisor
