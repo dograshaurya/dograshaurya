@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shaurya </h1>
 <p align="center">
-  <b>Senior Full-Stack Developer | Laravel Expert | React.js, Vue.js & Node.js | AI Automations</b>
+  <b>Senior Full-Stack Developer | Laravel Expert | React.js & Node.js | AI Automations</b>
 </p>
 
 ---
